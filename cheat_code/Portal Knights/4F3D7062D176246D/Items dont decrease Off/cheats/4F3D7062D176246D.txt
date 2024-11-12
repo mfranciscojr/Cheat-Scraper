@@ -1,0 +1,2 @@
+[Items dont decrease Off]
+04000000 003E7400 4B0C014A

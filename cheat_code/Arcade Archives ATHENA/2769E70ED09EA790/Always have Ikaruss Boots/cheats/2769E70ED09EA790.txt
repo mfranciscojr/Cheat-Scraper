@@ -1,0 +1,2 @@
+[Always have Ikaruss Boots]
+01100000 01E8E345 00000087

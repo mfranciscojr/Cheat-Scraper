@@ -1,0 +1,2 @@
+[Always Ball 1or2 StarTroop]
+01000000 1441D140 00000001

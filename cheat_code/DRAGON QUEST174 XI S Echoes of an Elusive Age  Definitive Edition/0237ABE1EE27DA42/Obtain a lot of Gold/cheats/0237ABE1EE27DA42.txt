@@ -1,0 +1,2 @@
+[Obtain a lot of Gold]
+04000000 009F58C0 0B015901

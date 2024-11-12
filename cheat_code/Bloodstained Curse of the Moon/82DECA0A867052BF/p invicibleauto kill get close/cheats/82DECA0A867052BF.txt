@@ -1,0 +1,2 @@
+[p invicibleauto kill get close]
+04000000 0026D724 D65F03C0

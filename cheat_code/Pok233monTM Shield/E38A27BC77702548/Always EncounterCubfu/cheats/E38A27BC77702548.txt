@@ -1,0 +1,2 @@
+[Always EncounterCubfu]
+08000000 007709E8 0000037B 00000000

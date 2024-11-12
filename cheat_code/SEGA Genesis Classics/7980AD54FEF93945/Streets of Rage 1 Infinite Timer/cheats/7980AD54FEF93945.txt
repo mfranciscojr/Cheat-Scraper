@@ -1,0 +1,2 @@
+[Streets of Rage 1 Infinite Timer]
+010F0000 030FA4A8 00000099

@@ -1,0 +1,2 @@
+[v130 PokeDollars doesnt decrease]
+04000000 01438A6C 4B1F0108

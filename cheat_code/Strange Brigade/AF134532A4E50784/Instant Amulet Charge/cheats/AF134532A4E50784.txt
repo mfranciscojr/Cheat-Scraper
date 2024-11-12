@@ -1,0 +1,2 @@
+[Instant Amulet Charge]
+040A0000 00A4E768 9105F289

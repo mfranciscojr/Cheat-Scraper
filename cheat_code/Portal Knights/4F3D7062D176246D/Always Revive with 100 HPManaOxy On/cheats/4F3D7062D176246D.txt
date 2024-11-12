@@ -1,0 +1,3 @@
+[Always Revive with 100 HPManaOxy On]
+04000000 00BA3CC8
+3F800000

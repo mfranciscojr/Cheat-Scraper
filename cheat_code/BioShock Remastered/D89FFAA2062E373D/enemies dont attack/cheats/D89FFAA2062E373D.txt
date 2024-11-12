@@ -1,0 +1,2 @@
+[enemies dont attack]
+04000000 00D07290 1E27D001

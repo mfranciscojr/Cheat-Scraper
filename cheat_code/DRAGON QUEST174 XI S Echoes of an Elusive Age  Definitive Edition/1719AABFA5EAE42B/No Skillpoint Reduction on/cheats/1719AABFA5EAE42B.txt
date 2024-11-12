@@ -1,0 +1,2 @@
+[No Skillpoint Reduction on]
+04000000 015984C8 0B080128

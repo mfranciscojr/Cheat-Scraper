@@ -1,0 +1,2 @@
+[Max Vitality Open MenuCharacter]
+040C0000 04273D24 9408B982

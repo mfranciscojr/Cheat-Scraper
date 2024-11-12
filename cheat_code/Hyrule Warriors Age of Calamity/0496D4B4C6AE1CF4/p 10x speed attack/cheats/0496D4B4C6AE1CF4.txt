@@ -1,0 +1,2 @@
+[p 10x speed attack]
+04000000 000AAD60 1E249000

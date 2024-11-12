@@ -1,0 +1,2 @@
+[Always XL case requires a in-game reset]
+02100000 2A6C9B80 0000007F

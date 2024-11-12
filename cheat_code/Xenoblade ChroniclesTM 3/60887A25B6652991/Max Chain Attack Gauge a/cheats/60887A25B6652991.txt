@@ -1,0 +1,2 @@
+[Max Chain Attack Gauge a ]
+040E0000 001916E4 1E204120

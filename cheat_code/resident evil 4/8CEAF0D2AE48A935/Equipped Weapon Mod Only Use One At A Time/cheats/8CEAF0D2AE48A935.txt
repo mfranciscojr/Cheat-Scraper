@@ -1,0 +1,2 @@
+[Equipped Weapon Mod Only Use One At A Time]
+00000000 00000000 00000000

@@ -1,0 +1,2 @@
+[Normal Pokemon Shiny Odds]
+04000000 007399F4 540002E0

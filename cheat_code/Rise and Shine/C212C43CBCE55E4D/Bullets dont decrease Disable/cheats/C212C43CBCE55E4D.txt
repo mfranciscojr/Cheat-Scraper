@@ -1,0 +1,2 @@
+[Bullets dont decrease Disable]
+04000000 005649CC 51000401

@@ -1,0 +1,2 @@
+[Maximum apres la mise a niveau du niveau dequipement]
+04000000 00EF26C0 D503201F

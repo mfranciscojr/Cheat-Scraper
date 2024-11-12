@@ -1,0 +1,2 @@
+[GP after battle]
+04100000 9423AB90 000F423F

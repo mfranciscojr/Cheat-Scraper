@@ -1,0 +1,2 @@
+[v110 Always Encounter Meltan]
+08000000 007704A8 00000328 00000000

@@ -1,0 +1,2 @@
+[CrystalsMana dont decrease]
+04000000 0027AEF8 51000001
