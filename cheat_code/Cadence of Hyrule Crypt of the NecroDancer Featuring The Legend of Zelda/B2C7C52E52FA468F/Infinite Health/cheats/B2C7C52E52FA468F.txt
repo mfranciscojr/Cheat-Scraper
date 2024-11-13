@@ -1,2 +1,0 @@
-[Infinite Health]
-04100000 8015F3C0 0000000A

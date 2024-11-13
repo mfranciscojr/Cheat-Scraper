@@ -1,2 +1,0 @@
-[x Damage Default]
-040E0000 017086D0 4B080129

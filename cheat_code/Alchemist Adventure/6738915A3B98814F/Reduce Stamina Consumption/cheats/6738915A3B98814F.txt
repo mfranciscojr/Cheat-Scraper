@@ -1,2 +1,0 @@
-[Reduce Stamina Consumption]
-040E0000 01963CA8 1E389001

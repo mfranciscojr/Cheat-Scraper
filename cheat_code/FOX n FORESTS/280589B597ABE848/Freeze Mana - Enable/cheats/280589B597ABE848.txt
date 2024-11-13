@@ -1,2 +1,0 @@
-[Freeze Mana - Enable]
-04000000 0051C710 D65F03C0

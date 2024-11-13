@@ -1,2 +1,0 @@
-[times gold coins]
-040B0000 005223D0 0B08114A

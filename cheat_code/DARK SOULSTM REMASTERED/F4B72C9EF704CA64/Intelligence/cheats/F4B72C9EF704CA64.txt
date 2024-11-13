@@ -1,2 +1,0 @@
-[Intelligence]
-041F0000 A2BCF7F0 00000063

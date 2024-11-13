@@ -1,2 +1,0 @@
-[P2 No Special attack]
-04000000 012A65D0 00000000

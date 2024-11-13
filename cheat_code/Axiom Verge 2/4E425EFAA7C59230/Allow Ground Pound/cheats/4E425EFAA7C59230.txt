@@ -1,2 +1,0 @@
-[Allow Ground Pound]
-040E0000 0059D160 52800020

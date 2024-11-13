@@ -1,2 +1,0 @@
-[Crossbows Linke Inf rapid Fire]
-04000000 0073F164 C2800000

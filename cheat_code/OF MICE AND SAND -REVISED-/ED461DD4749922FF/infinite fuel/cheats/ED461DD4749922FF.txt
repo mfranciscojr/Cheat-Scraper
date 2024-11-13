@@ -1,2 +1,0 @@
-[infinite fuel]
-021F0000 47BD35FC 000003E8

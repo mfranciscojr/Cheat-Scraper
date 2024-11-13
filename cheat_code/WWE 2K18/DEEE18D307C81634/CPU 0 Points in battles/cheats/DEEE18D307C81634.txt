@@ -1,2 +1,0 @@
-[CPU 0 Points in battles]
-04000000 0308D456 00000000

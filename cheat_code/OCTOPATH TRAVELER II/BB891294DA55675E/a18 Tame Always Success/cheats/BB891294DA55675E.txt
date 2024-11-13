@@ -1,2 +1,0 @@
-[a18 Tame Always Success]
-010E0000 03FAAFE2 00000005

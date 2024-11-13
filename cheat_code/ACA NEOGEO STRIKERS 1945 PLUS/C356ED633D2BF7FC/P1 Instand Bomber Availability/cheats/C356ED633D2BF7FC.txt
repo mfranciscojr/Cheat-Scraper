@@ -1,2 +1,0 @@
-[P1 Instand Bomber Availability]
-01000000 0127B3D0 00000000

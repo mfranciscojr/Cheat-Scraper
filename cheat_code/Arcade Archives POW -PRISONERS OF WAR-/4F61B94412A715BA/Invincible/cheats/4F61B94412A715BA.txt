@@ -1,2 +1,0 @@
-[Invincible]
-011F0000 018AF0D2 000000FF

@@ -1,2 +1,0 @@
-[Augmentation du niveau de lequipement 8 fois]
-04000000 002FDC20 0B000EC0

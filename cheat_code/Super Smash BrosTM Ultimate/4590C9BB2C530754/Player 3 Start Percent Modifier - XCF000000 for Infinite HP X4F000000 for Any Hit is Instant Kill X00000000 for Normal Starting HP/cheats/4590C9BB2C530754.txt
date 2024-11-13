@@ -1,2 +1,0 @@
-[Player 3 Start Percent Modifier - XCF000000 for Infinite HP X4F000000 for Any Hit is Instant Kill X00000000 for Normal Starting HP]
-04000000 04CABB7C

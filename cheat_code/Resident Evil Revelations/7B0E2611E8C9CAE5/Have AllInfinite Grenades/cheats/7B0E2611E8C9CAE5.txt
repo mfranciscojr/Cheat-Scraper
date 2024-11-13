@@ -1,2 +1,0 @@
-[Have AllInfinite Grenades]
-04000000 001DDFD0 52800120

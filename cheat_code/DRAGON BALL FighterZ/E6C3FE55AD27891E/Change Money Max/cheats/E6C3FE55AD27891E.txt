@@ -1,2 +1,0 @@
-[Change Money Max]
-04000000 00244C60 AA0803F6

@@ -1,2 +1,0 @@
-[Semi Auto Rifle With Scope]
-02000000 0124D930 0000006C

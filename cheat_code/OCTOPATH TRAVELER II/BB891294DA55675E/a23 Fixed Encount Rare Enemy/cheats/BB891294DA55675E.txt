@@ -1,2 +1,0 @@
-[a23 Fixed Encount Rare Enemy]
-010E0000 03FAAFE9 0000000F

@@ -1,2 +1,0 @@
-[Ghost Moves Inf Off]
-04000000 01B83B40 B900E509

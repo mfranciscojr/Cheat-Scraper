@@ -1,2 +1,0 @@
-[b One-Hit-Kill]
-010E0000 02CADFD0 00000001

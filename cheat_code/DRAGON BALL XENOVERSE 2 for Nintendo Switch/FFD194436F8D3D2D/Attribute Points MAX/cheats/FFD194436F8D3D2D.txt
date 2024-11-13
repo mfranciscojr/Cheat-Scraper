@@ -1,2 +1,0 @@
-[Attribute Points MAX]
-041F0000 54A2E95C 0000270F

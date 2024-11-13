@@ -1,4 +1,0 @@
-[inf heath  inf heath enemies L pad]
-80000040
-04000000 013BB938 1E3E1002
-20000000

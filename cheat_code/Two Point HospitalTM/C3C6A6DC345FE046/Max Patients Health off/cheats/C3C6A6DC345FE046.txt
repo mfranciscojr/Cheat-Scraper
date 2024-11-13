@@ -1,2 +1,0 @@
-[Max Patients Health off]
-040A0000 00893CBC 944BF331

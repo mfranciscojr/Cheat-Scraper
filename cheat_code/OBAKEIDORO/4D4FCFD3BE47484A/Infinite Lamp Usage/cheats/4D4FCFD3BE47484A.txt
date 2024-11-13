@@ -1,2 +1,0 @@
-[Infinite Lamp Usage]
-04000000 002F39A0 D65F03C0

@@ -1,2 +1,0 @@
-[p damager attack normal]
-04000000 03422FEC 1E2E1000

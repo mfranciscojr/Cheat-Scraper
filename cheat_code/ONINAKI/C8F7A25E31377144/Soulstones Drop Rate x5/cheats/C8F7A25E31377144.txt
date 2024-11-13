@@ -1,2 +1,0 @@
-[Soulstones Drop Rate x5]
-04000000 003506DC 11001401

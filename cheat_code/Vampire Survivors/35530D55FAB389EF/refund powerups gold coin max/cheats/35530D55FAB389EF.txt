@@ -1,2 +1,0 @@
-[refund powerups gold coin max]
-04000000 0569714C 00005431

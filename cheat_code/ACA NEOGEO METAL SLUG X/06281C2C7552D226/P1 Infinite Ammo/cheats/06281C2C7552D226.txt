@@ -1,2 +1,0 @@
-[P1 Infinite Ammo]
-02000000 0122E634 0000FFFF

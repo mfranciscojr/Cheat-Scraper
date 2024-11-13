@@ -1,2 +1,0 @@
-[Radar high-speed scanning]
-08000000 004CBA00 943ED25C D503201F

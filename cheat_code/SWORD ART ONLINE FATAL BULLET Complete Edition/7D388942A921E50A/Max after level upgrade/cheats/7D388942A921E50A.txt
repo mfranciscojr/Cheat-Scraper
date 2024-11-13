@@ -1,2 +1,0 @@
-[Max after level upgrade]
-04000000 00A72E0C 1A94B289

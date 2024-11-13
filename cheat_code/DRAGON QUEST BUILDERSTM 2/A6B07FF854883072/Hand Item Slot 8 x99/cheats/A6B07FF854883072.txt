@@ -1,2 +1,0 @@
-[Hand Item Slot 8 x99]
-021F0000 41C84ACE 00000063

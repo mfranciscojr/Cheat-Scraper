@@ -1,2 +1,0 @@
-[The durability of the weapon is undiminishedInf Durable]
-04070000 01B7B210 52800015

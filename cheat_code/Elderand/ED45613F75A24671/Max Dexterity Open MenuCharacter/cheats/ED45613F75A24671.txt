@@ -1,2 +1,0 @@
-[Max Dexterity Open MenuCharacter]
-040C0000 042879B0 940830CF

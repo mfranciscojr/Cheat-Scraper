@@ -1,2 +1,0 @@
-[o Hylian Shield]
-04000000 05AEB51C 0030007D

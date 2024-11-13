@@ -1,2 +1,0 @@
-[Instant Amulet Charge off]
-040A0000 00A4E768 9105B289

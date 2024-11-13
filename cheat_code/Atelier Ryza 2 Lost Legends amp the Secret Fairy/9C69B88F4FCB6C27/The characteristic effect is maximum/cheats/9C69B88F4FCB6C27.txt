@@ -1,2 +1,0 @@
-[The characteristic effect is maximum]
-040B0000 00597F3C 52800C88

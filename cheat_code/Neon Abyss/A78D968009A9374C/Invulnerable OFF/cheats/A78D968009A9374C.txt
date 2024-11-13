@@ -1,2 +1,0 @@
-[Invulnerable OFF]
-04000000 00550E20 D10283FF

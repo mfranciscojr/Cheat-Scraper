@@ -1,2 +1,0 @@
-[Shinobi Infinite Daggers]
-010F0000 030EE18A 00000063

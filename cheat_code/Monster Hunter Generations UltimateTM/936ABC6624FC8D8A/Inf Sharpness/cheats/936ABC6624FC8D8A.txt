@@ -1,2 +1,0 @@
-[Inf Sharpness]
-04000000 002ACC20 E6BF1070

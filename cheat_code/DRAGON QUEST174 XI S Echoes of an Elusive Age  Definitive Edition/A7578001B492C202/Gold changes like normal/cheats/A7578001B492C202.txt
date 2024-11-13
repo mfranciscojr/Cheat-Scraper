@@ -1,2 +1,0 @@
-[Gold changes like normal]
-04000000 009F5310 6B010108

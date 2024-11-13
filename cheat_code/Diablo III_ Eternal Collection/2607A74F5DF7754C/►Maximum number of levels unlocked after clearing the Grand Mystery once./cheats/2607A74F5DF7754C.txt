@@ -1,0 +1,2 @@
+[►Maximum number of levels unlocked after clearing the Grand Mystery once.]
+04000000 00487454 2A0003F5

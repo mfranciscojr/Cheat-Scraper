@@ -1,2 +1,0 @@
-[Invincible off]
-040E0000 006704F8 B940014A

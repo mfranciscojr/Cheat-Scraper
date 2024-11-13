@@ -1,2 +1,0 @@
-[bullet no decrease]
-04000000 027973BC D503201F

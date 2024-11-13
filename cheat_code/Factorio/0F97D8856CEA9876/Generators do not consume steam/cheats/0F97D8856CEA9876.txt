@@ -1,2 +1,0 @@
-[Generators do not consume steam]
-04000000 005A9128 D503201F

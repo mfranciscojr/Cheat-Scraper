@@ -1,2 +1,0 @@
-[x the USB effect of the military division]
-04000000 0005EC30 0B090508

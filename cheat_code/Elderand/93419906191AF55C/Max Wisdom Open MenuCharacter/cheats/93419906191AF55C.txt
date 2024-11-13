@@ -1,2 +1,0 @@
-[Max Wisdom Open MenuCharacter]
-040C0000 042740B4 9408B8AA

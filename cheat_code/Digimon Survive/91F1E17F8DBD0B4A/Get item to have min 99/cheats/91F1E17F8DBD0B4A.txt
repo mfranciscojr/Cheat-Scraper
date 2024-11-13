@@ -1,2 +1,0 @@
-[Get item to have min 99]
-04000000 01670E40 1A89C108

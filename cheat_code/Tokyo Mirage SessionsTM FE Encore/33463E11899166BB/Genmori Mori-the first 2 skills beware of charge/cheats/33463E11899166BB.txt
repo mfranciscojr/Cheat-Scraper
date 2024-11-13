@@ -1,3 +1,0 @@
-[Genmori Mori-the first 2 skills beware of charge]
-04100000 794A6028 0003009F
-04100000 794A602C 000300A3

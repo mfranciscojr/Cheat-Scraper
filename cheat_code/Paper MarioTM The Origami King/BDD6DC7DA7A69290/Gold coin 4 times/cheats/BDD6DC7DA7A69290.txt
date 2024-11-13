@@ -1,2 +1,0 @@
-[Gold coin 4 times]
-040B0000 005223D0 0B08094A

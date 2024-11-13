@@ -1,3 +1,0 @@
-[Press ZL Enemy dont move]
-80000100
-04000000 000AFCC4

@@ -1,2 +1,0 @@
-[Upper limited Coins]
-040E0000 00861278 E3A05FFA

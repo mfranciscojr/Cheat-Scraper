@@ -1,2 +1,0 @@
-[Dizziness immunity after equipping any chip]
-04000000 0005EBDC 52800C88

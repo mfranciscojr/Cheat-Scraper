@@ -1,2 +1,0 @@
-[character 5 defence]
-04000000 021207E4 0000270F

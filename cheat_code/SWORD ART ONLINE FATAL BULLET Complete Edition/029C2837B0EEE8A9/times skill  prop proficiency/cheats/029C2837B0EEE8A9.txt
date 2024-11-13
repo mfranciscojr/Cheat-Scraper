@@ -1,2 +1,0 @@
-[times skill  prop proficiency]
-04000000 00A9B68C 0B15116B

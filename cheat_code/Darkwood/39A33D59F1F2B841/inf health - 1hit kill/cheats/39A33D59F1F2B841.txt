@@ -1,2 +1,0 @@
-[inf health - 1hit kill]
-04000000 00368D70 1E204001

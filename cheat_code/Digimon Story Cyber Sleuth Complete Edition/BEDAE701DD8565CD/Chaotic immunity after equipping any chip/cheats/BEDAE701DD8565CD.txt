@@ -1,2 +1,0 @@
-[Chaotic immunity after equipping any chip]
-04000000 0005EBB0 52800C88

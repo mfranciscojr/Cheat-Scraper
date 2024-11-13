@@ -1,3 +1,0 @@
-[Bell money  miles are not reduced off]
-04000000 01036EB0 6B010114
-04000000 01036F00 6B010114

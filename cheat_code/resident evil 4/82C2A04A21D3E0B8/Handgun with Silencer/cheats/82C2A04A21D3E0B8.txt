@@ -1,2 +1,0 @@
-[Handgun with Silencer]
-02000000 0124D930 00000024

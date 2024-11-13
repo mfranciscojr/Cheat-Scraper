@@ -1,2 +1,0 @@
-[Always Catch Pokemon 100 Capture Chance - Enable]
-04000000 0076C648 529FFFE0

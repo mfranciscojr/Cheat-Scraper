@@ -1,2 +1,0 @@
-[Has Compass Gem]
-040E0000 0059CFB0 52800020

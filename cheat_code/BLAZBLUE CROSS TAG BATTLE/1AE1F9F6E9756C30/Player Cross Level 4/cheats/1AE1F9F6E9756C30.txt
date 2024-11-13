@@ -1,3 +1,0 @@
-[Player Cross Level 4]
-01000000 0192EE40
-00000004

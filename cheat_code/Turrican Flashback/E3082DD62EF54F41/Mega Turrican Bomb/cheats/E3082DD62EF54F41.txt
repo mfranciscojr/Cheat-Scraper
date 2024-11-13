@@ -1,2 +1,0 @@
-[Mega Turrican Bomb]
-01000000 00D0CFF1 00000003

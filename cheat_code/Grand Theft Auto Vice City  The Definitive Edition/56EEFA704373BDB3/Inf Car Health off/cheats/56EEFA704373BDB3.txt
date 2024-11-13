@@ -1,2 +1,0 @@
-[Inf Car Health off]
-040A0000 01000820 1E213800

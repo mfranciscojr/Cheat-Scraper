@@ -1,2 +1,0 @@
-[Energy Inf Off]
-04000000 014ACDC4 1E213800

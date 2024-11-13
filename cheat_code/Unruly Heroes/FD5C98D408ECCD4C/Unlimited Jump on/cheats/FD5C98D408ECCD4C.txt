@@ -1,2 +1,0 @@
-[Unlimited Jump on]
-04000000 0024ABE8 D503201F

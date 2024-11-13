@@ -1,2 +1,0 @@
-[zombi no attack]
-04000000 014765C0 D65F03C0

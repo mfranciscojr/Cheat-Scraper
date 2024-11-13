@@ -1,2 +1,0 @@
-[Infinite Identity Scrolls]
-010E0000 0158A50A 0000001F

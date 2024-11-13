@@ -1,0 +1,2 @@
+[Decorative props for inventory display testing]
+04000000 005000E4 3100081F

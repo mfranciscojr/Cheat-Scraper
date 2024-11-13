@@ -1,0 +1,2 @@
+[►Gemstone punch and other special materials after splitting maximum]
+04000000 00485E84 D2836733

@@ -1,2 +1,0 @@
-[runjump modific up normal]
-04000000 009E5EE4 1E2E100C

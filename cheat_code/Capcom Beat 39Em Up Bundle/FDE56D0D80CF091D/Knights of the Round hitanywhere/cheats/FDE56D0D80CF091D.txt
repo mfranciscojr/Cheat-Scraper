@@ -1,3 +1,0 @@
-[Knights of the Round hitanywhere]
-02000000 00EF18C6 00006002
-04000000 00EF18C8 60000006

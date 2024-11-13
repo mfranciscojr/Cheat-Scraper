@@ -1,2 +1,0 @@
-[RapidFire Cannon]
-04100000 9260B588 0000003C

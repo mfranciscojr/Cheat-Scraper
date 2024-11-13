@@ -1,2 +1,0 @@
-[p all enermy hit kill]
-04000000 00970CC8 D503201F

@@ -1,2 +1,0 @@
-[p invincible]
-04000000 00CCCD20 D503201F

@@ -1,2 +1,0 @@
-[inf health]
-04000000 0003E8FF20 09FFAD00

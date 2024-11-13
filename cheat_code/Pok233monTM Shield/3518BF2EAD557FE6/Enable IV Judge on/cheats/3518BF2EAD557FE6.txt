@@ -1,2 +1,0 @@
-[Enable IV Judge on]
-04000000 00ABA910 52800020

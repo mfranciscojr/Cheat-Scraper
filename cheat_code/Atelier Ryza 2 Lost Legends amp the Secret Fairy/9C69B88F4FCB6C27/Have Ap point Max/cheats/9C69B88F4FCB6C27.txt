@@ -1,2 +1,0 @@
-[Have Ap point Max]
-040B0000 0038B410 1A9FC135

@@ -1,2 +1,0 @@
-[Skillpoints off]
-040A0000 03323C70 B9403008

@@ -1,2 +1,0 @@
-[Bells dont decrease]
-04000000 01038C50 6B1F0114

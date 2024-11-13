@@ -1,2 +1,0 @@
-[Free Skill Unlocking Off]
-04000000 001F7D38 B8686A60

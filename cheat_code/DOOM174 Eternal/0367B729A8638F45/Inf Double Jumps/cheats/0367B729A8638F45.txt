@@ -1,2 +1,0 @@
-[Inf Double Jumps]
-04000000 05C0E7E0 00000001

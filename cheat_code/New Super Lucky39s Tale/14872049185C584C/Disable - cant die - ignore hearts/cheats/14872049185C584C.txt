@@ -1,2 +1,0 @@
-[Disable - cant die - ignore hearts]
-04000000 002ECA94 4B1503E1

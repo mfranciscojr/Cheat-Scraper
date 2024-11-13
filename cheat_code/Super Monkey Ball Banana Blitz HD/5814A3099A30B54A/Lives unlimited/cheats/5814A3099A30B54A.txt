@@ -1,2 +1,0 @@
-[Lives unlimited]
-04000000 003DCE60 52800C60

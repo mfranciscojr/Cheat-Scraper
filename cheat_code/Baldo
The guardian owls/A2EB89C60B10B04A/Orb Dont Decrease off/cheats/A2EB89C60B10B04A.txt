@@ -1,2 +1,0 @@
-[Orb Dont Decrease off]
-040A0000 013E29A4 4B010129

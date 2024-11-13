@@ -1,2 +1,0 @@
-[estellise Current HP]
-04000000 0124E904 0000270F

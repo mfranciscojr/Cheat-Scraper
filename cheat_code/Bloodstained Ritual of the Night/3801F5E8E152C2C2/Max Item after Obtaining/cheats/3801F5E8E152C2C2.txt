@@ -1,2 +1,0 @@
-[Max Item after Obtaining]
-04000000 00162B18 2A0B03F6

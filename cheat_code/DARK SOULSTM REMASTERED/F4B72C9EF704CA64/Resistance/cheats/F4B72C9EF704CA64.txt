@@ -1,2 +1,0 @@
-[Resistance]
-041F0000 A2BCF7E8 00000063

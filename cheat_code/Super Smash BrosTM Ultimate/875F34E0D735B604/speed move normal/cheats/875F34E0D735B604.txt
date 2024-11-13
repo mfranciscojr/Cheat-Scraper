@@ -1,2 +1,0 @@
-[speed move normal]
-04000000 0061683C 1E2E1000

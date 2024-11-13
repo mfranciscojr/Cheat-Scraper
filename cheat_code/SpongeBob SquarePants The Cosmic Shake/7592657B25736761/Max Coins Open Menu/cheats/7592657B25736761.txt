@@ -1,2 +1,0 @@
-[Max Coins Open Menu]
-040C0000 00FD1FDC 94D64852

@@ -1,2 +1,0 @@
-[Inf Item Durability]
-040A0000 01928750 52800020

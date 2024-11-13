@@ -1,2 +1,0 @@
-[max when use item on]
-04000000 009A13F8 1A88B108

@@ -1,2 +1,0 @@
-[crafting materials do not reduce]
-04000000 01256DE0 D65F03C0

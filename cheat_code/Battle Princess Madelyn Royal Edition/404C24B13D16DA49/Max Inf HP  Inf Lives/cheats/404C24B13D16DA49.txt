@@ -1,2 +1,0 @@
-[Max Inf HP  Inf Lives]
-04000000 000AF1D8 D503201F

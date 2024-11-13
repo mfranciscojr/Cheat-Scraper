@@ -1,2 +1,0 @@
-[Gunstar Heroes Infinite Health]
-010F0000 030F4DCC 00000064

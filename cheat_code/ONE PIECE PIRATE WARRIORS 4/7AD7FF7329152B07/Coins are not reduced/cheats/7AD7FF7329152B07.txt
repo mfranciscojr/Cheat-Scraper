@@ -1,2 +1,0 @@
-[Coins are not reduced]
-04000000 00428008 1A9F83E1

@@ -1,2 +1,0 @@
-[p invicible works guns off]
-04000000 028F7000 6DB923E9

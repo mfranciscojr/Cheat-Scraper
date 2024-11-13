@@ -1,2 +1,0 @@
-[Banshee Inf Off]
-04000000 012AB738 F94006C8

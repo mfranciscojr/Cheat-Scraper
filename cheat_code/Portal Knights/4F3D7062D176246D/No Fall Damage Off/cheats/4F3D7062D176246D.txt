@@ -1,2 +1,0 @@
-[No Fall Damage Off]
-04000000 003BD480 1E283800

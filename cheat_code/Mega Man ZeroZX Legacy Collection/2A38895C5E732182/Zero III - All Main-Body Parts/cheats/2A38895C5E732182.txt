@@ -1,2 +1,0 @@
-[Zero III - All Main-Body Parts]
-01000000 02FC9DA8 000000FF

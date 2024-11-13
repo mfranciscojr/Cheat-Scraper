@@ -1,2 +1,0 @@
-[Ghostization OFF]
-04000000 002D7E50 D61F00A0

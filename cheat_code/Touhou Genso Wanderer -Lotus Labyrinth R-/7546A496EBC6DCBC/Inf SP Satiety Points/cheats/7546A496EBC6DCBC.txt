@@ -1,2 +1,0 @@
-[Inf SP Satiety Points]
-010E0000 000F6DA6 00000089

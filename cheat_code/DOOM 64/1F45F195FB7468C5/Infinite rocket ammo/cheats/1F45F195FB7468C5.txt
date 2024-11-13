@@ -1,2 +1,0 @@
-[Infinite rocket ammo]
-04000000 010B9FB4 00000063

@@ -1,2 +1,0 @@
-[v110 Always Encounter Squirtle]
-08000000 007704A8 00000007 00000000

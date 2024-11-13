@@ -1,2 +1,0 @@
-[p damager attack 31x]
-04000000 0301FE10 1E27F000

@@ -1,2 +1,0 @@
-[inferno modespeed]
-04000000 001C7B5C 1E27F000

@@ -1,2 +1,0 @@
-[Infinite Doublejump]
-040A0000 06103EA8 00000001

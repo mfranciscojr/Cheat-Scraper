@@ -1,2 +1,0 @@
-[hitanywhere all weapon on]
-04000000 006E3C40 D65F03C0

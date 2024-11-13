@@ -1,2 +1,0 @@
-[Percent Item Steal Rate Enable]
-04000000 0000D140 52800C80

@@ -1,2 +1,0 @@
-[Infinite Stamina for climbing]
-040E0000 00493E10 D503201F

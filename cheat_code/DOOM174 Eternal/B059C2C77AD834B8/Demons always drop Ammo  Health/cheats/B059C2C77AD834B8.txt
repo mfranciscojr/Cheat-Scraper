@@ -1,2 +1,0 @@
-[Demons always drop Ammo  Health]
-040C0000 06912DD0 00000001

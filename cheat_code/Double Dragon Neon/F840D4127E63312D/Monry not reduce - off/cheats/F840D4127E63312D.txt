@@ -1,2 +1,0 @@
-[Monry not reduce - off]
-040E0000 00165144 E0421001

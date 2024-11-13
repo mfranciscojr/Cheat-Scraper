@@ -1,2 +1,0 @@
-[Diamond not reduce - off]
-040E0000 00165278 E0421001

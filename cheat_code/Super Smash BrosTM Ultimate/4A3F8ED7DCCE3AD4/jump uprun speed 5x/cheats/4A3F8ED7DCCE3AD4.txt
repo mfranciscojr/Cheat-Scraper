@@ -1,2 +1,0 @@
-[jump uprun speed 5x]
-04000000 0061CF14 1E229000

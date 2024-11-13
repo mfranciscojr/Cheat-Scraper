@@ -1,3 +1,0 @@
-[Sword Yayoi-first 2 skills to attack the enemy]
-04100000 794A6388 0003009D
-04100000 794A638C 000300B6

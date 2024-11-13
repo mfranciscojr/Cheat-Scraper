@@ -1,2 +1,0 @@
-[Infinite PlasmaBFGLaser Weapons Ammo]
-04000000 010B9FB0 00000063

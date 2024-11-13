@@ -1,2 +1,0 @@
-[Always have Harp of Protection]
-01100000 01E8E348 0000008B

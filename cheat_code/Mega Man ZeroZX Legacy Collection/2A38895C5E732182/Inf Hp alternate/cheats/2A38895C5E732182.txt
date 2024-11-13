@@ -1,2 +1,0 @@
-[Inf Hp alternate ]
-010F0000 02FB6588 00000016

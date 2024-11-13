@@ -1,2 +1,0 @@
-[pm_alwaysAllowDoubleJump]
-04000000 073A8558 00000001

@@ -1,2 +1,0 @@
-[Ball 4 BgSht ElDor FireBall Genie GOTTLIEB]
-01000000 15767B28 00000002

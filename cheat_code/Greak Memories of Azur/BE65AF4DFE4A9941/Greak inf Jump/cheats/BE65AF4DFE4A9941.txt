@@ -1,2 +1,0 @@
-[Greak inf Jump]
-010E0000 01A274DC 00000068

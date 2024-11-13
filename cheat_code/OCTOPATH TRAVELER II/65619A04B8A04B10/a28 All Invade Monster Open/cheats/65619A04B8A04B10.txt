@@ -1,2 +1,0 @@
-[a28 All Invade Monster Open]
-010E0000 03FA1FEE 00000018

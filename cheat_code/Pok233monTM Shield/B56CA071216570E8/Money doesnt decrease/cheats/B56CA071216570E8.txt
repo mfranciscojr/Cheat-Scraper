@@ -1,2 +1,0 @@
-[Money doesnt decrease]
-04000000 0137B94C 4B1F0108

@@ -1,2 +1,0 @@
-[Ball 1 BlkHole Gorgar GoingNuts WILLIAMS]
-01000000 15767B28 00000003

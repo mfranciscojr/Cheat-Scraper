@@ -1,2 +1,0 @@
-[Ignore ChargeTimeout off]
-040A0000 06205E18 00000000

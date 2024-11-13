@@ -1,3 +1,0 @@
-[Killing Enemies Missions only need 1 kill on]
-04000000 00276D4C 52800020
-04000000 00278A58 52800020

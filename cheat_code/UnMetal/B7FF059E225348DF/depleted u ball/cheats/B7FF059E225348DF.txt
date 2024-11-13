@@ -1,2 +1,0 @@
-[depleted u ball]
-04000000 09E818DC 0000000A

@@ -1,2 +1,0 @@
-[Add Quils when you buy]
-04000000 0048CC44 0B130129

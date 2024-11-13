@@ -1,2 +1,0 @@
-[Kanais Cube does not decrease Material OFF]
-04000000 00865100 D101C3FF

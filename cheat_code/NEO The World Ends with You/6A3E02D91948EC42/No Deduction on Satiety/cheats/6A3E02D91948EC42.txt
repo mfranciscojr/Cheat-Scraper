@@ -1,2 +1,0 @@
-[No Deduction on Satiety]
-040E0000 01FFC928 D503201F

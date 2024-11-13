@@ -1,2 +1,0 @@
-[Infinite Jumps - ON]
-04000000 0012FB18 D65F03C0

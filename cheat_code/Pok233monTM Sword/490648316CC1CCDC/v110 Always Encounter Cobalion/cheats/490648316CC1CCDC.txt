@@ -1,2 +1,0 @@
-[v110 Always Encounter Cobalion]
-08000000 007704A8 0000027E 00000000

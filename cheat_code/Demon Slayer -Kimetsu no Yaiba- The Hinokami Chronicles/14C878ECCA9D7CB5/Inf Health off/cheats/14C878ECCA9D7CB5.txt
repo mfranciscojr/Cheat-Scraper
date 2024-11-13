@@ -1,2 +1,0 @@
-[Inf Health off]
-040A0000 018C4280 BD005A61

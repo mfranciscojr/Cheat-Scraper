@@ -1,2 +1,0 @@
-[deactivate pearls cheat]
-04000000 010FF5E0 BD429800

@@ -1,2 +1,0 @@
-[Stop Bleeding Off]
-040C0000 09E83374 00000001

@@ -1,2 +1,0 @@
-[Bloodstones When get]
-04000000 001A2D44 529D4C00

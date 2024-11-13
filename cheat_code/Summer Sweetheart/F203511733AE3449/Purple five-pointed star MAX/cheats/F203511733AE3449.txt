@@ -1,3 +1,0 @@
-[Purple five-pointed star MAX]
-04100000 00CB7550
-05F5E0FF

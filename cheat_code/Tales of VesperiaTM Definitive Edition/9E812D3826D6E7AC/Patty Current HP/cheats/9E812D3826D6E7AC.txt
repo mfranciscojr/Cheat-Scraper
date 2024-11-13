@@ -1,3 +1,0 @@
-[Patty Current HP]
-04000000 01261CB4
-0000270F

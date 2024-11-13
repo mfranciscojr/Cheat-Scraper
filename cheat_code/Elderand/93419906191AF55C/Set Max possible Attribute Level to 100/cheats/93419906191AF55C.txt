@@ -1,2 +1,0 @@
-[Set Max possible Attribute Level to 100]
-040C0000 04275898 52800C88

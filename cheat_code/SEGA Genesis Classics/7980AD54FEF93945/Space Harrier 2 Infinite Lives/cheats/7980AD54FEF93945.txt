@@ -1,2 +1,0 @@
-[Space Harrier 2 Infinite Lives]
-010F0000 030F9BAC 00000005

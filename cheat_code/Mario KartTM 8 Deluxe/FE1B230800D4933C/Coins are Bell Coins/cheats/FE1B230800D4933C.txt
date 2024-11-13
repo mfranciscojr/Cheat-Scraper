@@ -1,2 +1,0 @@
-[Coins are Bell Coins]
-040F0000 00020964 E3A01002

@@ -1,2 +1,0 @@
-[Invulnerable]
-04100000 010C9D07 0080BB44

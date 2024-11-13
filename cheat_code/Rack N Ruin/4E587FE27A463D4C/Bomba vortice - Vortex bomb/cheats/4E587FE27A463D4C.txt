@@ -1,2 +1,0 @@
-[Bomba vortice - Vortex bomb]
-04100000 A8E41660 00000009

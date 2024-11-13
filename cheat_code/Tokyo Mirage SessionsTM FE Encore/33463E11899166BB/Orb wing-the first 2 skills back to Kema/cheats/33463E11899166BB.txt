@@ -1,3 +1,0 @@
-[Orb wing-the first 2 skills back to Kema]
-04100000 794A52A8 00030071
-04100000 794A52AC 0009005D

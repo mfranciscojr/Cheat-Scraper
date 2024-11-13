@@ -1,2 +1,0 @@
-[Infinite Tower HP]
-040E0000 017A0BB8 17FFFFF2

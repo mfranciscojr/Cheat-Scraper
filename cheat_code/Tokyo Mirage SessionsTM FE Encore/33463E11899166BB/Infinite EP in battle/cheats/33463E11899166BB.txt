@@ -1,2 +1,0 @@
-[Infinite EP in battle]
-04000000 000CB034 E2411000

@@ -1,2 +1,0 @@
-[EXP Max After Battle]
-04100000 6387C6C0 0000FFFF

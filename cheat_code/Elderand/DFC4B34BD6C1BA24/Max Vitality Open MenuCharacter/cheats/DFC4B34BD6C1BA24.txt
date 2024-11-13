@@ -1,2 +1,0 @@
-[Max Vitality Open MenuCharacter]
-040C0000 0426EF14 9408936E

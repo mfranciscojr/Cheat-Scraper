@@ -1,2 +1,0 @@
-[Stamina always max]
-04000000 000B6050 B9401400

@@ -1,2 +1,0 @@
-[Percent Item Steal Rate Disable]
-04000000 0000D140 B9406400

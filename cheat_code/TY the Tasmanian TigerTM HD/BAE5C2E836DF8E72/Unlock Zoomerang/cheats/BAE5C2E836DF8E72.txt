@@ -1,2 +1,0 @@
-[Unlock Zoomerang]
-01100000 00BB4ABE 00000001

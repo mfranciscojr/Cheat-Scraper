@@ -1,2 +1,0 @@
-[get 9999 ruby get itens max on]
-04000000 00B808A8 D65F03C0

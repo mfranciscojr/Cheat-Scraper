@@ -1,2 +1,0 @@
-[Static Props Off]
-04000000 01420C2C 4B020148

@@ -1,2 +1,0 @@
-[P1 Always Maximum Sword Power]
-02000000 01286B60 00006800

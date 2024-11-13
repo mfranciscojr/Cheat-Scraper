@@ -1,2 +1,0 @@
-[Change the number of materials to 96 when you get them]
-04000000 0268F3AC 52800C08

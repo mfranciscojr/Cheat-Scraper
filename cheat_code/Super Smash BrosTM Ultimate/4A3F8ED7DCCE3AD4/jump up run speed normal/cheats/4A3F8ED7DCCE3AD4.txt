@@ -1,2 +1,0 @@
-[jump up run speed normal]
-04000000 0061CF14 1E2E1000

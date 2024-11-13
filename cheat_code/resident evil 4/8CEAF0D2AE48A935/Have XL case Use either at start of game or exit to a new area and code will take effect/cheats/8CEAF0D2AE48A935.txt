@@ -1,2 +1,0 @@
-[Have XL case Use either at start of game or exit to a new area and code will take effect ]
-02100000 2A6C9B80 0000007F

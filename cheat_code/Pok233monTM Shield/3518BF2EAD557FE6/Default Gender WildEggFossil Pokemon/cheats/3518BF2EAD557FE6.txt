@@ -1,2 +1,0 @@
-[Default Gender WildEggFossil Pokemon]
-04000000 00766F58 79406261

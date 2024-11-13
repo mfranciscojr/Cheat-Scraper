@@ -1,2 +1,0 @@
-[Remove Exclusive technology restriction]
-040B0000 01411880 52800020

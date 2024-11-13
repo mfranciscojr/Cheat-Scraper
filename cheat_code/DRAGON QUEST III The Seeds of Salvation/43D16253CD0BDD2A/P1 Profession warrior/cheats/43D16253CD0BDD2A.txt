@@ -1,2 +1,0 @@
-[P1 Profession warrior]
-04100000 02A0B5F4 00000000

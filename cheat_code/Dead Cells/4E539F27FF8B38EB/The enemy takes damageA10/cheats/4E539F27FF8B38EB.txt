@@ -1,2 +1,0 @@
-[The enemy takes damageA10]
-04000000 015AFA64 0000000A

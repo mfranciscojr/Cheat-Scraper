@@ -1,2 +1,0 @@
-[Wyvern Fire Quick CD]
-040C0000 037DFA54 D503201F

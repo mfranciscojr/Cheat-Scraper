@@ -1,2 +1,0 @@
-[Invulnerable]
-04000000 01708C10 D65F03C0

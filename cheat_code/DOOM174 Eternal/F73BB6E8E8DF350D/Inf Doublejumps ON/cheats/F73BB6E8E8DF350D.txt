@@ -1,2 +1,0 @@
-[Inf Doublejumps ON]
-040A0000 064491C8 00000001

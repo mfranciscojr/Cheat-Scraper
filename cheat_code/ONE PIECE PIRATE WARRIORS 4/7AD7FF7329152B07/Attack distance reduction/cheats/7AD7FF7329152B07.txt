@@ -1,2 +1,0 @@
-[Attack distance reduction]
-04000000 000643B4 1E2E1002

@@ -1,2 +1,0 @@
-[Infinite jumpon]
-04000000 0021CD18 D503201F

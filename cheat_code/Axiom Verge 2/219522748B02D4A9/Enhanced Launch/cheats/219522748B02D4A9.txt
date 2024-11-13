@@ -1,2 +1,0 @@
-[Enhanced Launch]
-040E0000 0059BAC0 52800020

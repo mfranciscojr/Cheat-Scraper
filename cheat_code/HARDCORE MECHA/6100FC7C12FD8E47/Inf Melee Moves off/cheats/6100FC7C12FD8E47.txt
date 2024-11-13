@@ -1,2 +1,0 @@
-[Inf Melee Moves off]
-04000000 0049C260 FC1D0FE8

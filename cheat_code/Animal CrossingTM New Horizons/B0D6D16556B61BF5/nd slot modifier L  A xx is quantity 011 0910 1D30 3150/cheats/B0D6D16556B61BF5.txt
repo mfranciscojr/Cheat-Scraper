@@ -1,3 +1,0 @@
-[nd slot modifier L  A xx is quantity 011 0910 1D30 3150]
-80000041
-04100000 AC3B90C8 0000

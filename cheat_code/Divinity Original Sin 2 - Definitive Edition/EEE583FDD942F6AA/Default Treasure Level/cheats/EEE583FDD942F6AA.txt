@@ -1,2 +1,0 @@
-[Default Treasure Level]
-04000000 00FCE494 B941EAB8

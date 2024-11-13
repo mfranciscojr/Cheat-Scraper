@@ -1,2 +1,0 @@
-[Items increase 8x]
-040B0000 00275A64 0B090D01

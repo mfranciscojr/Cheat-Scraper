@@ -1,2 +1,0 @@
-[Invincible inf Hit Points]
-010E0000 0059FAF6 0000001F

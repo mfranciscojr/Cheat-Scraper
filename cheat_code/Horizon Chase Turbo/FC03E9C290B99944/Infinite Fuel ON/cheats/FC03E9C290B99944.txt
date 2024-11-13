@@ -1,2 +1,0 @@
-[Infinite Fuel ON]
-04000000 0117D11C 1E282808

@@ -1,2 +1,0 @@
-[Max Darkness Upgrade]
-01000000 00B37EEC 00000003

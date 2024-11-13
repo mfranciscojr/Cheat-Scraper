@@ -1,2 +1,0 @@
-[time control mod stop to slow]
-04000000 0120DF34 3DCCCCCD

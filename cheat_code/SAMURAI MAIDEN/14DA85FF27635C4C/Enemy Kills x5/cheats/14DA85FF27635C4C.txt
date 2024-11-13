@@ -1,2 +1,0 @@
-[Enemy Kills x5]
-040B0000 02274F98 0B040BF3

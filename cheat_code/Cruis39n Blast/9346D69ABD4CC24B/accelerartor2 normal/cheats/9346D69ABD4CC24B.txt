@@ -1,2 +1,0 @@
-[accelerartor2 normal]
-04000000 01897C8C 1E2E1001

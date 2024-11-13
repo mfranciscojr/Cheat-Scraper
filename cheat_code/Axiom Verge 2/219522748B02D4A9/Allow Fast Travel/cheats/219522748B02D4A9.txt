@@ -1,2 +1,0 @@
-[Allow Fast Travel]
-040E0000 0059BC40 52800020

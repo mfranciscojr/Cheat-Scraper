@@ -1,2 +1,0 @@
-[Hunger No Decrease]
-04000000 003C9430 510002C1

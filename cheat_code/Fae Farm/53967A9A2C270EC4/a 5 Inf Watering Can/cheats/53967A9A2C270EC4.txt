@@ -1,2 +1,0 @@
-[a 5 Inf Watering Can]
-010E0000 096F2FFB 00000001

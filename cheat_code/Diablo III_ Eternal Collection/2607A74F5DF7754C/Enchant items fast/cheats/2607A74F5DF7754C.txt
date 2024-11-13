@@ -1,0 +1,2 @@
+[Enchant items fast]
+04000000 001D2A84 11000508

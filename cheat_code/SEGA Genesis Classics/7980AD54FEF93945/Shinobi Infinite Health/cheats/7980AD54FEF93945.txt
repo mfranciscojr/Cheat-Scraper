@@ -1,2 +1,0 @@
-[Shinobi Infinite Health]
-010F0000 030EE190 00000010

@@ -1,2 +1,0 @@
-[Items no Cooldown]
-040C0000 01569C98 1E2703E0

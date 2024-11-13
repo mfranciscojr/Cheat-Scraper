@@ -1,2 +1,0 @@
-[CPU No Magic Circuit Gauge]
-04000000 092725B8 00000000

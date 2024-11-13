@@ -1,2 +1,0 @@
-[Inf Water in can]
-04000000 0004AAC8 4B1F018A

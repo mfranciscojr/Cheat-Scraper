@@ -1,2 +1,0 @@
-[Legendary Chronicle does not decrease]
-040E0000 01ECB9E0 2A1F03E1

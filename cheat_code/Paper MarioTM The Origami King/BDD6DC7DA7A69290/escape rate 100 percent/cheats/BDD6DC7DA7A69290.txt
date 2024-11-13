@@ -1,2 +1,0 @@
-[escape rate 100 percent]
-040B0000 00778950 52800C88

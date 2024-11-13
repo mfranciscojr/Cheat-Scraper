@@ -1,2 +1,0 @@
-[Forge doesnt use Material]
-04000000 00D967B8 D503201F

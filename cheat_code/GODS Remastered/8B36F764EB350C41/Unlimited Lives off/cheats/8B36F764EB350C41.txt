@@ -1,2 +1,0 @@
-[Unlimited Lives off]
-04000000 001E2800 B9403000

@@ -1,2 +1,0 @@
-[Items are not reduced off]
-04000000 014209BC 4B080148

@@ -1,2 +1,0 @@
-[Hearts and Stamina dont decrease off]
-04000000 01CA79A0 B9001401

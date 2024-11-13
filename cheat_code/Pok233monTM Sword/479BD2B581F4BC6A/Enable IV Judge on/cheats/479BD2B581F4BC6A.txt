@@ -1,2 +1,0 @@
-[Enable IV Judge on]
-04000000 00ABD160 52800020

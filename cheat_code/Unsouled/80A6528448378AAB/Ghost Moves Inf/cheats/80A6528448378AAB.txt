@@ -1,2 +1,0 @@
-[Ghost Moves Inf]
-04000000 01B83B40 D503201F

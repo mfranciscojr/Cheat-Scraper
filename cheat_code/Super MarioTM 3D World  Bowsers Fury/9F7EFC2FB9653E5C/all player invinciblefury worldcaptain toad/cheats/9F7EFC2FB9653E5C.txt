@@ -1,2 +1,0 @@
-[all player invinciblefury worldcaptain toad ]
-04000000 0038C8D4 7100051F

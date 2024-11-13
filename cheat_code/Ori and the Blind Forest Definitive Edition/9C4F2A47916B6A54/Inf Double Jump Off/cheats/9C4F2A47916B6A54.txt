@@ -1,2 +1,0 @@
-[Inf Double Jump Off]
-04000000 00232BF8 9400001E

@@ -1,2 +1,0 @@
-[inf healthprotection hitdamger0]
-04000000 0001D5CC D503201F

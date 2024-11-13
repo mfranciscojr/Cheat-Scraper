@@ -1,2 +1,0 @@
-[p normal speed]
-04000000 000BAA60 1E2E1000

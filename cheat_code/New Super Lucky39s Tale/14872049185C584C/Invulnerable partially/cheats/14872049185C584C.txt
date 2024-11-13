@@ -1,2 +1,0 @@
-[Invulnerable partially]
-04000000 002EC734 D503201F

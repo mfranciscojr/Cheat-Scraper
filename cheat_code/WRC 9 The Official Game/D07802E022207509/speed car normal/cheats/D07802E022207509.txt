@@ -1,2 +1,0 @@
-[speed car normal]
-04000000 012A7864 1E2E1000

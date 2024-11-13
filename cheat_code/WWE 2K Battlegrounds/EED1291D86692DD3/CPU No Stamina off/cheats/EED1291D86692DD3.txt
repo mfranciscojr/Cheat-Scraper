@@ -1,2 +1,0 @@
-[CPU No Stamina off]
-040A0000 00811020 1E202820

@@ -1,2 +1,0 @@
-[inf durability]
-04000000 005BDF90 D65F03C0

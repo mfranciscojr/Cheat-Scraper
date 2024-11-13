@@ -1,2 +1,0 @@
-[inf use musou]
-04000000 00D68AE0 D65F03C0

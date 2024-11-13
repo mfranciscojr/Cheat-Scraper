@@ -1,2 +1,0 @@
-[Have All Shields]
-04100000 9AE10548 000000FF

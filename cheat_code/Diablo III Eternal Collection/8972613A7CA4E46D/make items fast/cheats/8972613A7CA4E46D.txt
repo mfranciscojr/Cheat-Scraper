@@ -1,2 +1,0 @@
-[make items fast]
-04000000 003FCAC0 11001508

@@ -1,0 +1,2 @@
+[Dropping any item (Staff of Herding Bulls, etc.)]
+04000000 00504D78 12800000

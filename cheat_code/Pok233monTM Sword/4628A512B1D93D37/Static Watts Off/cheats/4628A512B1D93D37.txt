@@ -1,2 +1,0 @@
-[Static Watts Off]
-04000000 01424DBC 4B020108

@@ -1,2 +1,0 @@
-[P2 Infinite Lives]
-01000000 0127ECF6 00000009

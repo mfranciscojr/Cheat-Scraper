@@ -1,2 +1,0 @@
-[Little game life is not reduced   Inf Lives in Minigame]
-04000000 010B7308 D503201F

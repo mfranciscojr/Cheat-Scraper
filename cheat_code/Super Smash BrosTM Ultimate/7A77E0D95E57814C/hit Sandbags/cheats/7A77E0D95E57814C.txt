@@ -1,2 +1,0 @@
-[hit Sandbags]
-04000000 003DB340 D65F03C0

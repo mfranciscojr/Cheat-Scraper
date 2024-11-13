@@ -1,2 +1,0 @@
-[o Super Mario 64 Infinite Health]
-02100000 38742A8E 00000008

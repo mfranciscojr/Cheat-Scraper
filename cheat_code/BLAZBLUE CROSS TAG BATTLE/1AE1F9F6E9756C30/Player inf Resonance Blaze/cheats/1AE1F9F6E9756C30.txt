@@ -1,3 +1,0 @@
-[Player inf Resonance Blaze]
-01000000 0192EE30
-00000001

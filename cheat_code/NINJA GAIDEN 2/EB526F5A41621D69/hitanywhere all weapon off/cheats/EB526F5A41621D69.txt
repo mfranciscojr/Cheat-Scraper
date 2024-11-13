@@ -1,2 +1,0 @@
-[hitanywhere all weapon off]
-04000000 006E3C40 FC170FEC

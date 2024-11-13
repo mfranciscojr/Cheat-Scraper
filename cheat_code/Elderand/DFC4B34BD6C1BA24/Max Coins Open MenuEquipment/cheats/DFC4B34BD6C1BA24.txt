@@ -1,2 +1,0 @@
-[Max Coins Open MenuEquipment]
-040C0000 04269100 9408AAEF

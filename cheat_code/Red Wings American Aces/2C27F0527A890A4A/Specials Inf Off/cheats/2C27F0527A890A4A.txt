@@ -1,2 +1,0 @@
-[Specials Inf Off]
-04000000 017CD028 B900211F

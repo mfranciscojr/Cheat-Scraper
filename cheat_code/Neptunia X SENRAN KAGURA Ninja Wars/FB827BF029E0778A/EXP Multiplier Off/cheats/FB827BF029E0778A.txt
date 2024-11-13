@@ -1,2 +1,0 @@
-[EXP Multiplier Off]
-04000000 00109B80 0B010114

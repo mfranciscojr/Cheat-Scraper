@@ -1,2 +1,0 @@
-[Ignore gemstone]
-04000000 00E2586C 6B09013F

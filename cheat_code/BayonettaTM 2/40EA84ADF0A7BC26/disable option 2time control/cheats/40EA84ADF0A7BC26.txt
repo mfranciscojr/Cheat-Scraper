@@ -1,4 +1,0 @@
-[disable option 2time control]
-80000020
-04000000 0120DF3C 00000000
-20000000

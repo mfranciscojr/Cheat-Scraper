@@ -1,2 +1,0 @@
-[Inf Use Carry Item]
-04000000 003015F8 E3A07000

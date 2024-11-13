@@ -1,2 +1,0 @@
-[Catch Rate set to 100 Capture]
-04000000 0076CD98 529FFFE0

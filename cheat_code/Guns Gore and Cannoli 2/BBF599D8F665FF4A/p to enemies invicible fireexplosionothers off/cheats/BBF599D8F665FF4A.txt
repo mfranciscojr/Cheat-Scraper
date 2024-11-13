@@ -1,2 +1,0 @@
-[p to enemies invicible fireexplosionothers off]
-04000000 0177E2C0 F81D0FF5

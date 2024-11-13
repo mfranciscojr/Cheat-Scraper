@@ -1,2 +1,0 @@
-[MAX items after received - on]
-040E0000 02D3476C 2A0A03E9

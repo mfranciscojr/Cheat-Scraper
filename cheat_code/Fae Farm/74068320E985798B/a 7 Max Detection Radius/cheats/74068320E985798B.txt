@@ -1,2 +1,0 @@
-[a 7 Max Detection Radius]
-010E0000 052A1FFD 00000001

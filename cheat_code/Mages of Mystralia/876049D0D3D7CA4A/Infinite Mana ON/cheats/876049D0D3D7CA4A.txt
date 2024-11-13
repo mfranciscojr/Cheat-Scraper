@@ -1,2 +1,0 @@
-[Infinite Mana ON]
-04000000 002BE2C8 BD003A60

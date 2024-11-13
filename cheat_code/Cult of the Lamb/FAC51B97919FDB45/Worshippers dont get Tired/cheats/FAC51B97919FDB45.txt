@@ -1,2 +1,0 @@
-[Worshippers dont get Tired]
-040C0000 01C8C038 1E204040

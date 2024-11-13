@@ -1,2 +1,0 @@
-[all cpu no move]
-04000000 002D91E0 D65F03C0

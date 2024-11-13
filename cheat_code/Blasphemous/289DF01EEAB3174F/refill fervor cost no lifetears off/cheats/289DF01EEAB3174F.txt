@@ -1,3 +1,0 @@
-[refill fervor cost no lifetears off]
-04000000 0047C810 1E232829
-04000000 0047C8F4 1E283920

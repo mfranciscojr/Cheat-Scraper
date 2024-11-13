@@ -1,2 +1,0 @@
-[Focus value doesnt decrease]
-04000000 00B59C58 2A0303E0

@@ -1,2 +1,0 @@
-[Zero II - Dash Timer]
-01000000 02FBDF70 00000000

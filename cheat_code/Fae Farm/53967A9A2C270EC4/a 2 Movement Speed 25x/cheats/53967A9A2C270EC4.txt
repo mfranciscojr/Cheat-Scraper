@@ -1,2 +1,0 @@
-[a 2 Movement Speed 25x]
-010E0000 096F2FF8 00000001

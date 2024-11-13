@@ -1,2 +1,0 @@
-[Invulnerable Off]
-04000000 0035BB00 39404400

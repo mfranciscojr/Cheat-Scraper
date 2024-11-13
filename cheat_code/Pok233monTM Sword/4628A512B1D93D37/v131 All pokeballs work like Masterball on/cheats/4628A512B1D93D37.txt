@@ -1,2 +1,0 @@
-[v131 All pokeballs work like Masterball on]
-04000000 008A70C8 17FFFFF0

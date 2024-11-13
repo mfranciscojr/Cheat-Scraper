@@ -1,2 +1,0 @@
-[Restore everything]
-040E0000 0030D79C 1E283800

@@ -1,2 +1,0 @@
-[Shots dont decrease]
-04000000 01D41350 11000108

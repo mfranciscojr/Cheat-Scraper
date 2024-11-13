@@ -1,2 +1,0 @@
-[ignore ChargeTimeout]
-04000000 05CFC608 00000001

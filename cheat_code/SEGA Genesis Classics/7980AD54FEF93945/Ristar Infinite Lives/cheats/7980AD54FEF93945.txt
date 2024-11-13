@@ -1,2 +1,0 @@
-[Ristar Infinite Lives]
-010F0000 030F8F21 00000009

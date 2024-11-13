@@ -1,2 +1,0 @@
-[R power user recover hpTTDspeed move disable]
-04000000 014E3D70 1E2E1008

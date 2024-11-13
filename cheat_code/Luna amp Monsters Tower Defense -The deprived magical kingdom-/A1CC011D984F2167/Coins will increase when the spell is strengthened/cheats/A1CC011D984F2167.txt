@@ -1,2 +1,0 @@
-[Coins will increase when the spell is strengthened]
-04000000 01889874 2B090149

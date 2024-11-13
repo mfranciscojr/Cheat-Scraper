@@ -1,2 +1,0 @@
-[Have Gems not reduced]
-040B0000 001373EC 52800000

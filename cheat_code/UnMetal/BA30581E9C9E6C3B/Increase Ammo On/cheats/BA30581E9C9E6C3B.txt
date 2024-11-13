@@ -1,2 +1,0 @@
-[Increase Ammo On]
-040C0000 00039DDC 3100056B

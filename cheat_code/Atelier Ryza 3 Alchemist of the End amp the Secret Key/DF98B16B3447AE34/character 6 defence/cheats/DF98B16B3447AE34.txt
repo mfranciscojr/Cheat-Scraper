@@ -1,2 +1,0 @@
-[character 6 defence]
-04000000 02120E74 0000270F

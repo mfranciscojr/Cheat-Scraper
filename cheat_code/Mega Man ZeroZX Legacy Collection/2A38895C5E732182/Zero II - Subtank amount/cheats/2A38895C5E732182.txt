@@ -1,2 +1,0 @@
-[Zero II - Subtank amount]
-04000000 02FBDFF6 1E1E1E1E

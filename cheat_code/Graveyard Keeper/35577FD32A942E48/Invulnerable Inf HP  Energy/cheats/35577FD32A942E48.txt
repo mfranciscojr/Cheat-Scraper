@@ -1,2 +1,0 @@
-[Invulnerable Inf HP  Energy]
-040E0000 003E1264 52800020

@@ -1,2 +1,0 @@
-[v110 Always Encounter Virizion]
-08000000 007704A8 00000280 00000000

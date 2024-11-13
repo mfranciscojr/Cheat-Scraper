@@ -1,2 +1,0 @@
-[scan rate after equipping any chip]
-04000000 0005EC5C 52801908

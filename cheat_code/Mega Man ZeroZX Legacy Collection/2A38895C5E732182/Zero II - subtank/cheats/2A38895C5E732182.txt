@@ -1,2 +1,0 @@
-[Zero II - subtank ]
-01000000 02FBDFF4 00000004

@@ -1,2 +1,0 @@
-[Inf Balls Activate This Both]
-04000000 0031030C 00000004

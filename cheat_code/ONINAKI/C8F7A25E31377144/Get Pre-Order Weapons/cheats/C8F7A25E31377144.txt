@@ -1,2 +1,0 @@
-[Get Pre-Order Weapons]
-04000000 002BF0F0 52800020

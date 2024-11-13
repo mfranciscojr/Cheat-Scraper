@@ -1,2 +1,0 @@
-[HP not reduced]
-04000000 007753A8 B900EA80

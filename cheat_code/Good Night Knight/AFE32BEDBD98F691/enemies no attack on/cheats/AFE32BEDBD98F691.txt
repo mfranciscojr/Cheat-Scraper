@@ -1,2 +1,0 @@
-[enemies no attack on]
-04000000 0019EC20 D503201F

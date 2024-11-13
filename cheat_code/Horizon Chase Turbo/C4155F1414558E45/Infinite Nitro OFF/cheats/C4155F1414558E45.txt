@@ -1,2 +1,0 @@
-[Infinite Nitro OFF]
-04000000 002DB360 B9402000

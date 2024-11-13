@@ -1,2 +1,0 @@
-[Max Ice Resistence]
-040C0000 01E122C0 14C290EB

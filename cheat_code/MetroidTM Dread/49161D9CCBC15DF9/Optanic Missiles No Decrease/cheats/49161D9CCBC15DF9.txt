@@ -1,2 +1,0 @@
-[Optanic Missiles No Decrease]
-04000000 0084D144 1E2703E1

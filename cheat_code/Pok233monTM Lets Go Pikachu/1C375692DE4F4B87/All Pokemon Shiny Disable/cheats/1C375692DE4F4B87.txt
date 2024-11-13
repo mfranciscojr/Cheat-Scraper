@@ -1,2 +1,0 @@
-[All Pokemon Shiny Disable]
-04000000 007399F4 540002E0

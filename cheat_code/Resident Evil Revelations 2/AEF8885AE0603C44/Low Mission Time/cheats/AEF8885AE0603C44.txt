@@ -1,2 +1,0 @@
-[Low Mission Time]
-04000000 006E926C 1E2703E0

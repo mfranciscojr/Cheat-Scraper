@@ -1,2 +1,0 @@
-[Streets of Rage 2 Infinite Health P1]
-010F0000 030F9928 00000068

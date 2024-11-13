@@ -1,2 +1,0 @@
-[Disable cant die code]
-04000000 002C0AB4 4B1503E1

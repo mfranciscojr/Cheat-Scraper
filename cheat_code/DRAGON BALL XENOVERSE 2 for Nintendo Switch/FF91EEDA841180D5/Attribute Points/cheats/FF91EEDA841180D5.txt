@@ -1,2 +1,0 @@
-[Attribute Points]
-040E0000 00732160 5284E1E0

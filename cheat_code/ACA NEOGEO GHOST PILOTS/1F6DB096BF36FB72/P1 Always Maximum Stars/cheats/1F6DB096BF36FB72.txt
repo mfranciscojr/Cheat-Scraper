@@ -1,2 +1,0 @@
-[P1 Always Maximum Stars]
-01000000 0127EC85 00000099

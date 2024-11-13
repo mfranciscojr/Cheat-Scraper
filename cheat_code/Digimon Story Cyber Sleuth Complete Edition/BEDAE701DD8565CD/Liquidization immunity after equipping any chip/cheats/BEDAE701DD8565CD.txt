@@ -1,2 +1,0 @@
-[Liquidization immunity after equipping any chip]
-04000000 0005EBE8 52800C88

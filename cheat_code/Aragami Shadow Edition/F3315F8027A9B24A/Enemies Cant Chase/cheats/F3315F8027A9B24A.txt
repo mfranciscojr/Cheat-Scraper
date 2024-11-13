@@ -1,2 +1,0 @@
-[Enemies Cant Chase]
-04000000 0068D6A0 D65F03C0

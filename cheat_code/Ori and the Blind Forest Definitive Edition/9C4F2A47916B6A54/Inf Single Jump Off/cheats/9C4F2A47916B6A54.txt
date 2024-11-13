@@ -1,2 +1,0 @@
-[Inf Single Jump Off]
-04000000 00232B8C 97FCF575

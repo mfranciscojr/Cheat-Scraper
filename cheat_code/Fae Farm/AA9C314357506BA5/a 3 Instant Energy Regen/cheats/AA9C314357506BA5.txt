@@ -1,2 +1,0 @@
-[a 3 Instant Energy Regen]
-010E0000 050C1FF9 00000001

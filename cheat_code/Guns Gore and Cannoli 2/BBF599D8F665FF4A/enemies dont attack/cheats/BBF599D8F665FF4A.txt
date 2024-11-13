@@ -1,2 +1,0 @@
-[enemies dont attack]
-04000000 0009A5A4 D503201F

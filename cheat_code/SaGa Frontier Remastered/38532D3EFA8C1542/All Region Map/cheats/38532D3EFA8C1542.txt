@@ -1,2 +1,0 @@
-[All Region Map]
-04010000 01FF3DE0 52800001

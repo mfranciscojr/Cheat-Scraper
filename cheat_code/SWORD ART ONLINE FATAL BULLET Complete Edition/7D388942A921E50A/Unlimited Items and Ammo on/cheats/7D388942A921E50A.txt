@@ -1,2 +1,0 @@
-[Unlimited Items and Ammo on]
-04000000 00B4FD00 D503201F

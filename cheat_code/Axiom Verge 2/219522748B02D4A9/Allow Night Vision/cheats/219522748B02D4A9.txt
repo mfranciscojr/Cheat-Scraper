@@ -1,2 +1,0 @@
-[Allow Night Vision]
-040E0000 0059BCC0 52800020

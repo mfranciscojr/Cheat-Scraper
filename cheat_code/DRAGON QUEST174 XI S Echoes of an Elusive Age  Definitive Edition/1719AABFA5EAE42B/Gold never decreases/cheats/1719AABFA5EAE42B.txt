@@ -1,2 +1,0 @@
-[Gold never decreases]
-04000000 009F3914 D503201F

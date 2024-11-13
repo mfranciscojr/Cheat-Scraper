@@ -1,2 +1,0 @@
-[x Skill Points up]
-010E0000 2B010108 0000000D

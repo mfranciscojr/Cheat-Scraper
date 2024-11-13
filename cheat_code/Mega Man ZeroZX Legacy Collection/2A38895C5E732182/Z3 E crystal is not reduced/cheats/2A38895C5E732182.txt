@@ -1,2 +1,0 @@
-[Z3 E crystal is not reduced]
-01000000 02FC9D96 000000FF

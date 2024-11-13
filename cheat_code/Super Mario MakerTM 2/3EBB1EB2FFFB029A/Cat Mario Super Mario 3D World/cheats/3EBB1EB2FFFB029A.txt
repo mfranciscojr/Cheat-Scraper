@@ -1,2 +1,0 @@
-[Cat Mario Super Mario 3D World]
-011F0000 93D4EC18 00000007

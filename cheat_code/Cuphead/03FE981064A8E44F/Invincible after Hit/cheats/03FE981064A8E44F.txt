@@ -1,2 +1,0 @@
-[Invincible after Hit]
-04000000 0114E5C4 1E2E1008

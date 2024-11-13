@@ -1,0 +1,2 @@
+[►Kanai Magic Box does not consume materials]
+04000000 008875D0 D65F03C0

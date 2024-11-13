@@ -1,2 +1,0 @@
-[Great Sword Quick Charge]
-040C0000 035C2AF8 14000010

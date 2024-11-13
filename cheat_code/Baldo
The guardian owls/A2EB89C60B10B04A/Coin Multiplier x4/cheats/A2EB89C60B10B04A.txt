@@ -1,2 +1,0 @@
-[Coin Multiplier x4]
-040A0000 013E250C 0B012129

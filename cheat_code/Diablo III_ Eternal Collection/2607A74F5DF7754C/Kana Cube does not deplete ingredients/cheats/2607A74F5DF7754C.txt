@@ -1,0 +1,2 @@
+[Kana Cube does not deplete ingredients]
+04000000 0085E8A0 D65F03C0

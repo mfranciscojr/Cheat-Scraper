@@ -1,2 +1,0 @@
-[Raid Pokemon Always Shiny]
-04000000 0076FB84 14000036

@@ -1,2 +1,0 @@
-[all chests are Rainbow]
-04000000 008EE4FC 14000001

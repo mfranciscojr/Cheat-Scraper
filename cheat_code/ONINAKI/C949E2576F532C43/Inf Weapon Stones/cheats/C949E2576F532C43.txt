@@ -1,2 +1,0 @@
-[Inf Weapon Stones]
-04000000 00320AB0 52807CE0

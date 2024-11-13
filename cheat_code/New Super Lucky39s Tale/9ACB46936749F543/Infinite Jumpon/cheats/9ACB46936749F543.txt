@@ -1,2 +1,0 @@
-[Infinite Jumpon]
-04000000 0021C698 D503201F

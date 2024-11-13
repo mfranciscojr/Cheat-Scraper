@@ -1,2 +1,0 @@
-[Max Points - Doesnt Work if Other Codes are Enabled - Credits to Retroboy]
-041F0000 081A0324 05F5E0FF

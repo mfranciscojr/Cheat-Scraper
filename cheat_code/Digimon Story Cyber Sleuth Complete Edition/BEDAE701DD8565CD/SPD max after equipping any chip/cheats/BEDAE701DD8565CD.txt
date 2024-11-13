@@ -1,2 +1,0 @@
-[SPD max after equipping any chip]
-04000000 0005EAEC 52807D08

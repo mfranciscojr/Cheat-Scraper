@@ -1,2 +1,0 @@
-[Item Slot 1 Cosmo Memory x98]
-04100000 63C9E634 0000C45B

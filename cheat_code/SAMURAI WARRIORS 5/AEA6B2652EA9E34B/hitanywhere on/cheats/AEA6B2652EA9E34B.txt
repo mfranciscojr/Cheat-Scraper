@@ -1,2 +1,0 @@
-[hitanywhere on]
-04000000 00D074D0 D65F03C0

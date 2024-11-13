@@ -1,2 +1,0 @@
-[HP Ammo Bombs Energy Special Energy Inf Off]
-04000000 002235D4 F9000048

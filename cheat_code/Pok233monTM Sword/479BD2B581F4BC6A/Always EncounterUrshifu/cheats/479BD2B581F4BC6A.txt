@@ -1,2 +1,0 @@
-[Always EncounterUrshifu]
-08000000 00766F58 0000037C 00000001

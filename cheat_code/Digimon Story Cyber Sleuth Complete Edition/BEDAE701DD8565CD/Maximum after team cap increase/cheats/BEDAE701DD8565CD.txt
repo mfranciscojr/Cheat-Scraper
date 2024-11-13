@@ -1,2 +1,0 @@
-[Maximum after team cap increase]
-04000000 00069010 1A89B128

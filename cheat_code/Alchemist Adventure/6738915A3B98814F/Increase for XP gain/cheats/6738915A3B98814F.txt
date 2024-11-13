@@ -1,2 +1,0 @@
-[Increase for XP gain]
-040E0000 0196E650 110FA028

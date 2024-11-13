@@ -1,2 +1,0 @@
-[Infinite fuel]
-040E0000 008261F8 D503201F

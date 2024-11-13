@@ -1,2 +1,0 @@
-[Player Inf Cross Gauge]
-04000000 0192EE10 00002710

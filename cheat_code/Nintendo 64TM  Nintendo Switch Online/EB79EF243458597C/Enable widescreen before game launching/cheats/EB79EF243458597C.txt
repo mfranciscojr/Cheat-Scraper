@@ -1,2 +1,0 @@
-[Enable widescreen before game launching]
-20000000

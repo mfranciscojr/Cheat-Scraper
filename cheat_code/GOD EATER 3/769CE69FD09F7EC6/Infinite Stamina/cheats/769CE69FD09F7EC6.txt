@@ -1,2 +1,0 @@
-[Infinite Stamina]
-04000000 008CFDEC 1E204020

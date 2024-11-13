@@ -1,2 +1,0 @@
-[Have All Armors]
-04100000 9B6DE658 000000FF

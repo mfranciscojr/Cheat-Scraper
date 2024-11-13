@@ -1,2 +1,0 @@
-[Insta-Build Buildings]
-080C0000 01C3974C 1E210820 1E27F001

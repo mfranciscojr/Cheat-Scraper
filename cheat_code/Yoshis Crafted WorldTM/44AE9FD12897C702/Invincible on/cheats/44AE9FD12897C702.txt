@@ -1,2 +1,0 @@
-[Invincible on]
-04000000 004F4574 D65F03C0

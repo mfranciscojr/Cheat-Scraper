@@ -1,2 +1,0 @@
-[Rapede Current HP]
-04000000 01262BD4 0000270F

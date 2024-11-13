@@ -1,2 +1,0 @@
-[Items in Battle Normal]
-04000000 00062A80 0B130108

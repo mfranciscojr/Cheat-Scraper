@@ -1,2 +1,0 @@
-[Exp Multiplier x4]
-04000000 0098C1B4 0B010908

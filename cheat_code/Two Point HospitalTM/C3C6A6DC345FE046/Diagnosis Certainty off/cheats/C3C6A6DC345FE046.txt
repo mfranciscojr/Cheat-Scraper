@@ -1,2 +1,0 @@
-[Diagnosis Certainty off]
-040A0000 0045172C BD403800

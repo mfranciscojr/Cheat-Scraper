@@ -1,2 +1,0 @@
-[EXP after battle]
-04100000 9423AB94 000F423F

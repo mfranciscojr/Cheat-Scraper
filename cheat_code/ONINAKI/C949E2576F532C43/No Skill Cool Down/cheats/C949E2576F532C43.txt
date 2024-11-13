@@ -1,2 +1,0 @@
-[No Skill Cool Down]
-04000000 001B69A0 1E2703E0

@@ -1,2 +1,0 @@
-[Items no Cooldown]
-04000000 001193DC F900527F

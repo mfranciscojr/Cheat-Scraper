@@ -1,2 +1,0 @@
-[Infinite Potions]
-01000000 002DD312 00000009

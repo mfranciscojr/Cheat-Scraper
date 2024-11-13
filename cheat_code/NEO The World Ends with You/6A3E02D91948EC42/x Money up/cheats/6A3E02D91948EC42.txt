@@ -1,2 +1,0 @@
-[x Money up]
-040E0000 01FFBFA8 531D7034

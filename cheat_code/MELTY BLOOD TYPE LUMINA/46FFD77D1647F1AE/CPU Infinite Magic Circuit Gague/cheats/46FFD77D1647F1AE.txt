@@ -1,2 +1,0 @@
-[CPU Infinite Magic Circuit Gague]
-04000000 0925B708 00000000

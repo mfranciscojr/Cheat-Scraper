@@ -1,2 +1,0 @@
-[Infinite Turbo for WGP Mode]
-01000000 0127E260 00000004

@@ -1,2 +1,0 @@
-[a24 All Attack Hit]
-010E0000 03FA1FEA 00000011

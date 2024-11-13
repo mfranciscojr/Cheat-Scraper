@@ -1,2 +1,0 @@
-[Infinite Health Save 5]
-01100000 6262FF34 00000006

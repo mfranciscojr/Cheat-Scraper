@@ -1,2 +1,0 @@
-[blood frag locked OFF]
-04000000 004E0BD4 5293A509

@@ -1,2 +1,0 @@
-[No Weapon Overheat]
-040A0000 062060E8 00000001

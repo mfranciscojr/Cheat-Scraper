@@ -1,2 +1,0 @@
-[Invulnerable Off]
-04000000 000A7C10 D10243FF

@@ -1,2 +1,0 @@
-[Inf Stamina off]
-04000000 034A0C28 BD01EAA8

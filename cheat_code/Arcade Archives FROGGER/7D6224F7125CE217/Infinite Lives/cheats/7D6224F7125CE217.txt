@@ -1,2 +1,0 @@
-[Infinite Lives]
-011F0000 0078CDBD 0000001B

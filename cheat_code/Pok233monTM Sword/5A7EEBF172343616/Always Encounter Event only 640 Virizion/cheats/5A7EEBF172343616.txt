@@ -1,2 +1,0 @@
-[Always Encounter Event only 640 Virizion]
-08000000 007709E8 00000280 00000000

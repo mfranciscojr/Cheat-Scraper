@@ -1,2 +1,0 @@
-[deactivate xp cheat]
-04000000 010FFA10 B9433000

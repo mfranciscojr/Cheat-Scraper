@@ -1,2 +1,0 @@
-[Have Monster no Disappear after Death]
-04070000 02E0D7BC 52800068

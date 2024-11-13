@@ -1,2 +1,0 @@
-[P Longer Energy Gauge Length]
-01000000 012A3C27 0000007C

@@ -1,2 +1,0 @@
-[Allow grasp Ledge without Sheshkala]
-040E0000 0059CFD0 52800020

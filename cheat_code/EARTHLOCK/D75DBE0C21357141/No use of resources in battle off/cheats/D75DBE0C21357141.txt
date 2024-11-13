@@ -1,2 +1,0 @@
-[No use of resources in battle off]
-04000000 00DDC598 360004E0

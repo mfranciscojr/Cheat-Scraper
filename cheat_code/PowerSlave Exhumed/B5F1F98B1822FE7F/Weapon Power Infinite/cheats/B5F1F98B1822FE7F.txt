@@ -1,2 +1,0 @@
-[Weapon Power Infinite]
-04000000 003B4574 51000129

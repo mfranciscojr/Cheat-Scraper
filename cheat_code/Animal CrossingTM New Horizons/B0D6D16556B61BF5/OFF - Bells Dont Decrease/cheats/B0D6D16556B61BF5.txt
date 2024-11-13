@@ -1,2 +1,0 @@
-[OFF - Bells Dont Decrease]
-04000000 01036C80 6B010114

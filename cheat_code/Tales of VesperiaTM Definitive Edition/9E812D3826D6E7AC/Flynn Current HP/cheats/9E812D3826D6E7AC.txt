@@ -1,3 +1,0 @@
-[Flynn Current HP]
-04000000 0125DC24
-0000270F

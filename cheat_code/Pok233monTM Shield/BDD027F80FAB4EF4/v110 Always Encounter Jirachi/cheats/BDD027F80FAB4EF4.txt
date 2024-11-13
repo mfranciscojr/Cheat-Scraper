@@ -1,2 +1,0 @@
-[v110 Always Encounter Jirachi]
-08000000 007704A8 00000181 00000000

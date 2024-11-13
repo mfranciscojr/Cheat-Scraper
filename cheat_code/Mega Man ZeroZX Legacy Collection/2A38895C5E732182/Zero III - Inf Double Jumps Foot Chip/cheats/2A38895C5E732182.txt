@@ -1,2 +1,0 @@
-[Zero III - Inf Double Jumps Foot Chip]
-01000000 02FC9DFA 00000000

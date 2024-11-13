@@ -1,2 +1,0 @@
-[o Fortified Shield]
-04000000 05AEB51C 00300079

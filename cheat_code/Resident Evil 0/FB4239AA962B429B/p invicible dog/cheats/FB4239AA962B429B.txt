@@ -1,2 +1,0 @@
-[p invicible dog]
-04000000 0012CAA0 D65F03C0

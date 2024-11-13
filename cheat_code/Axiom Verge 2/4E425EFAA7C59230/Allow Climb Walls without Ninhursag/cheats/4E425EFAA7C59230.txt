@@ -1,2 +1,0 @@
-[Allow Climb Walls without Ninhursag]
-040E0000 0059CFE0 52800020

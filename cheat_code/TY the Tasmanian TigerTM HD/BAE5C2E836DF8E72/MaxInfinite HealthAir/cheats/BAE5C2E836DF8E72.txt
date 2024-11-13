@@ -1,2 +1,0 @@
-[MaxInfinite HealthAir]
-04000000 00350EC0 00000008

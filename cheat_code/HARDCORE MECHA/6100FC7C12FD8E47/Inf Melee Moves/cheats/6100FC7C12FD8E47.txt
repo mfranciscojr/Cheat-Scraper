@@ -1,2 +1,0 @@
-[Inf Melee Moves]
-04000000 0049C260 D65F03C0

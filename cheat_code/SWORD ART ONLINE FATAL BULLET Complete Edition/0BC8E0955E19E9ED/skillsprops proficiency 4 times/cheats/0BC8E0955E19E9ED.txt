@@ -1,2 +1,0 @@
-[skillsprops proficiency 4 times]
-04000000 00A8333C 0B15094A

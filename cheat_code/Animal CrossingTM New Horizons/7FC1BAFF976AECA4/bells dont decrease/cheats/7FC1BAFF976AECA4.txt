@@ -1,2 +1,0 @@
-[bells dont decrease]
-04000000 00FC27A0 6B1F0114

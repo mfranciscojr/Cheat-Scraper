@@ -1,2 +1,0 @@
-[Always Ball 1 Teed]
-01000000 155FD50D 00000001

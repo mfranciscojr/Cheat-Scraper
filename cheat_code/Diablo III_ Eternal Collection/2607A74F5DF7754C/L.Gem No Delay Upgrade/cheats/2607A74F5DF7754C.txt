@@ -1,0 +1,2 @@
+[L.Gem No Delay Upgrade]
+04000000 0033B6F8 1E2E1002

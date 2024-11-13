@@ -1,3 +1,0 @@
-[Have 1st Carry Item Display Monster HP Disable]
-04070000 02C373BC BD001320
-04070000 03DE2BB8 AA1303E0

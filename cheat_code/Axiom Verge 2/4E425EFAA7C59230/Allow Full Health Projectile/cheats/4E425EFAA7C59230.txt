@@ -1,2 +1,0 @@
-[Allow Full Health Projectile]
-040E0000 0059D150 52800020

@@ -1,2 +1,0 @@
-[p run speed normal]
-04000000 05189E84 1E2E1000

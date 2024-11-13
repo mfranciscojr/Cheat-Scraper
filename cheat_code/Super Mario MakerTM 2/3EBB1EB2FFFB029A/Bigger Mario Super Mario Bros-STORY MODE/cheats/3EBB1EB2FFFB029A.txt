@@ -1,2 +1,0 @@
-[Bigger Mario Super Mario Bros-STORY MODE]
-011F0000 90F4EC18 00000006

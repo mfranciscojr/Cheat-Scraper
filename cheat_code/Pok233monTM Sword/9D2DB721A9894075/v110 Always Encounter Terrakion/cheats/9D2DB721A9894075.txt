@@ -1,2 +1,0 @@
-[v110 Always Encounter Terrakion]
-08000000 007704A8 0000027F 00000000

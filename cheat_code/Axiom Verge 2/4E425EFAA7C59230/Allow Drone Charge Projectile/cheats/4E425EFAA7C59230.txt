@@ -1,2 +1,0 @@
-[Allow Drone Charge Projectile]
-040E0000 0059D140 52800020

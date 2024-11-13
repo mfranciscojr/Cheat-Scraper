@@ -1,2 +1,0 @@
-[Infinite Health Save 2]
-01100000 61DF096C 00000006

@@ -1,2 +1,0 @@
-[P1 Full Special Bar]
-02000000 000CF326 00007FFF

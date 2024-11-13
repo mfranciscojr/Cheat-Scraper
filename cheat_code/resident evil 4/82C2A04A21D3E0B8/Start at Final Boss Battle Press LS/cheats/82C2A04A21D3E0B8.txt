@@ -1,3 +1,0 @@
-[Start at Final Boss Battle Press LS]
-80000010 040F0000 01279358 00000332
-20000000

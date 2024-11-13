@@ -1,2 +1,0 @@
-[Inf Hunger off]
-04000000 002BDD30 F81D0FF5

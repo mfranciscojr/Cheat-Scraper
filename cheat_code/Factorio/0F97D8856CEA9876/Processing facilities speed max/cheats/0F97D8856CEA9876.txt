@@ -1,2 +1,0 @@
-[Processing facilities speed max]
-04000000 003EEF4C 944244F8

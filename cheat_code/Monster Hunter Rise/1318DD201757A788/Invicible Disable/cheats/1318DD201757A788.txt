@@ -1,2 +1,0 @@
-[Invicible Disable]
-040C0000 039D0EB0 BD440280

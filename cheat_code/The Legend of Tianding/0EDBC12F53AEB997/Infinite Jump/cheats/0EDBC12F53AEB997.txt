@@ -1,2 +1,0 @@
-[Infinite Jump]
-040E0000 01C78A68 D503201F

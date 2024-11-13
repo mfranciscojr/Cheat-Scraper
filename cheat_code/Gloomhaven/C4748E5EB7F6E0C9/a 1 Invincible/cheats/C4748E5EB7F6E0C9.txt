@@ -1,2 +1,0 @@
-[a 1 Invincible]
-040E0000 024DE1BC 52800020

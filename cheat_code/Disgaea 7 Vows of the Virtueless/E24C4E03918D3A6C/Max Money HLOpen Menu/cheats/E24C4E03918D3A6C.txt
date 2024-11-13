@@ -1,2 +1,0 @@
-[Max Money HLOpen Menu]
-040C0000 009BFF08 94154B7E

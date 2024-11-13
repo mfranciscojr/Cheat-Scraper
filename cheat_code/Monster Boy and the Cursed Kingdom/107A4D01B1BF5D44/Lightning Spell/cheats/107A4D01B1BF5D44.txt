@@ -1,2 +1,0 @@
-[Lightning Spell]
-02100000 9AE1054C 00000019

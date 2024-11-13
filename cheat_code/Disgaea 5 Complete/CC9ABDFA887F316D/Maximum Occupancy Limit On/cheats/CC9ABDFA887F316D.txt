@@ -1,2 +1,0 @@
-[Maximum Occupancy Limit On]
-04000000 00185BA4 52801FE0

@@ -1,2 +1,0 @@
-[Maximum Occupancy Limit Off]
-04000000 00185BA4 39451400
